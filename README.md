@@ -50,16 +50,27 @@ Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
 AND GATE
+
 <img width="467" height="359" alt="Screenshot 2025-09-18 083828" src="https://github.com/user-attachments/assets/cc8144fb-56fc-4d56-8683-de3971be012a" />
+
 OR GATE 
+
 <img width="460" height="358" alt="Screenshot 2025-09-18 083840" src="https://github.com/user-attachments/assets/11e996c1-d1b9-4f98-8508-a4c1a2d0468d" />
+
 NOT GATE
+
 <img width="284" height="218" alt="Screenshot 2025-09-18 083850" src="https://github.com/user-attachments/assets/fbfb55c0-576b-48ec-ae4b-6c6ac68c7210" />
+
 NOR GATE
+
 <img width="455" height="347" alt="Screenshot 2025-09-18 083859" src="https://github.com/user-attachments/assets/92f90f5e-ee7a-4296-a6b6-598a8eeb5a62" />
+
 NAND GATE
+
 <img width="437" height="352" alt="Screenshot 2025-09-18 083907" src="https://github.com/user-attachments/assets/2a4889dc-f322-405f-aaba-9e5ebd8fbd2c" />
+
 XOR GATE
+
 <img width="446" height="336" alt="Screenshot 2025-09-18 083917" src="https://github.com/user-attachments/assets/aa4055f8-1739-4e72-8993-30f148f57150" />
 
 # Procedure:
